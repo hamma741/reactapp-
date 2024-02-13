@@ -1,0 +1,45 @@
+.create-session-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff; /* Text color */
+  }
+  
+  .input-container {
+    margin-bottom: 15px;
+  }
+  
+  .input-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-container input,
+  .input-container textarea,
+  .input-container select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ff9933; /* Orange border */
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-top: 5px;
+    color: #000; /* Text color */
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #ff9933; /* Orange background */
+    color: #fff; /* Text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff8000; /* Darker shade of orange on hover */
+  }
+  
